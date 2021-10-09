@@ -1,0 +1,43 @@
+.fbheader{
+	height: 82px;
+	background-color: #405D99;
+	min-width: 980px;
+	color: white;
+}
+.form{
+	height: 23px;
+	border: none;
+}
+.container .row .col-2 .btn{
+	color: white;
+	background-color:#4168B7!important;
+	width: 76px!important;
+	height: 29px!important;
+	line-height:0px!important;
+	padding: 12px;
+}
+.signup{
+	height: 35px;
+	border: none;
+}
+select{
+	width: 65px;
+	height: 30px;
+	text-align: center;
+}
+.radio{
+	font-size: 21px;
+}
+.btn{
+	background-color: #5D924A;
+	color: white;
+	width: 160px;
+	height: 40px;
+}
+.btn:hover{
+	background-color: #26680E;
+}
+.list{
+	list-style: none;
+	font-size: 14px;
+}
